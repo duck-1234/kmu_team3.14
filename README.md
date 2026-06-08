@@ -78,14 +78,25 @@ D-50은 C++로 제작된 콘솔 기반 경제 시뮬레이션 게임입니다.
 
 
 main_Project
+
 ㄴ main.cpp
+
 ㄴ GameManager.cpp/h
+
 ㄴ GameMenu.cpp/h
+
 ㄴ Player.cpp/h
+
 ㄴ DebtSystem.cpp/h
+
 ㄴ WorkManager.cpp/h
+
 ㄴ AugmentManager.cpp/h
+
 ㄴ StoryManager.cpp/h
+
 ㄴ HelpManager.cpp/h
+
 ㄴ type.cpp/h
+
 ㄴ CommonUtils.h
